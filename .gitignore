@@ -58,3 +58,4 @@ pids
 
 # Prisma, Sequelize, etc
 prisma/migrations/
+package-lock.json
